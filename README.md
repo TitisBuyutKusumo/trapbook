@@ -4,21 +4,23 @@
 [![Release](https://img.shields.io/github/v/release/TitisBuyutKusumo/trapbook)](https://github.com/TitisBuyutKusumo/trapbook/releases)
 [![License](https://img.shields.io/github/license/TitisBuyutKusumo/trapbook)](LICENSE)
 
-Free polyglot chess opening book loaded with traps. **3.8 MB · 247,907 positions · 64 trap lines · both colors.**
+Free polyglot chess opening book loaded with traps. **3.8 MB · 247,968 positions · 145 trap lines · both colors.**
 
 Your engine plays normal, respectable chess… until the opponent gets greedy. Then the book bites.
 
 ## What's inside
 
-64 hand-built trap lines sitting on a full sound repertoire:
+145 hand-built trap lines sitting on a full sound repertoire:
 
 - **Mate in the opening** — Scholar's, Fool's, Legal's Mate, Opera trap
 - **The famous gambit traps** — Stafford, Fried Liver, Evans, Möller, Cochrane
 - **Two Knights chaos** — Traxler (both), Fritz, Ulvestad, Lolli, Nakhmanson, Blackburne Shilling
-- **Ruy Lopez crimes** — Noah's Ark (traps the bishop!), Fishing Pole, Mortimer ideas
-- **Sicilian punishments** — Siberian, Smith-Morra, Scotch, Göring, Grand Prix
+- **Ruy Lopez crimes** — Noah's Ark (traps the bishop!), Fishing Pole, Mortimer ideas, Schliemann, Tarrasch trap
+- **Sicilian punishments** — Siberian, Smith-Morra, Scotch, Göring, Grand Prix, Najdorf poison, Sämisch, Sozin, Rossolimo
 - **Queen's Gambit traps** — Elephant, Rubinstein, Cambridge Springs, Winawer Countergambit
-- **Gambit mayhem** — Budapest (Kieninger!), Englund, Albin-style lines, Danish, From's, Orangutan, Grob
+- **French crimes** — Milner-Barry, Winawer-style punishes, Tarrasch Nd2 ideas
+- **King's Gambit mayhem** — Fischer Defense, Cunningham, Falkbeer, Allgaier, Muzio
+- **Offbeat & fun** — Budapest (Kieninger!), Englund, Danish, From's, Orangutan, Grob, Borg, Owen, Halloween, Monkey's Bum, Amar
 
 Underneath: 107k theory positions + 8,731 attacking master games (Tal, Fischer, Kasparov, Marshall, Blackburne, Anderssen, Morphy, Chigorin). Trap moves are weighted to dominate, sound theory fills the rest.
 
@@ -36,7 +38,7 @@ Translation: dubious gambits get refuted by perfect calculation, but humans grab
 
 ## Use it in 1 minute
 
-**DroidFish (Android):** copy `booktrick.bin` to the `DroidFish/book` folder → menu → Select opening book. Done.
+**DroidFish (Android):** copy `trapbook.bin` to the `DroidFish/book` folder → menu → Select opening book. Done.
 
 **Arena / Banksia / CuteChess / Scid vs. PC / Lucas Chess:** point the opening book path at the `.bin`. Done.
 

@@ -1,0 +1,11 @@
+% King hunt from the book: greedy queen sortie punished, mate in 22.
+% Moves tagged [book] came from trapbook.bin (max-weight); [engine] = Stockfish fallback.
+[Event "TrapBook trap demo"]
+[Site "github.com/TitisBuyutKusumo/trapbook"]
+[Date "????.??.??"]
+[Round "?"]
+[White "Trapper (SF+trapbook.bin)"]
+[Black "Pam-humanlike"]
+[Result "1-0"]
+
+1. c4 { engine } 1... d5 2. cxd5 { book } 2... Qxd5 3. Nc3 { book } 3... Qd4 4. Nf3 { engine } 4... Qd6 5. d4 { engine } 5... c5 6. d5 { engine } 6... e6 7. e4 { engine } 7... exd5 8. Nxd5 { engine } 8... Nf6 9. Bf4 { engine } 9... Qc6 10. Bb5 { engine } 10... Nxd5 11. Bxc6+ { engine } 11... Nxc6 12. exd5 { engine } 12... Nb4 13. O-O { engine } 13... f6 14. Re1+ { engine } 14... Kf7 15. d6 { engine } 15... Bd7 16. Qb3+ { engine } 16... Kg6 17. Nh4+ { engine } 17... Kh5 18. Qf7+ { engine } 18... Kxh4 19. g3+ { engine } 19... Kg4 20. f3+ { engine } 20... Kxf3 21. Qh5+ { engine } 21... Bg4 22. Re3# { engine } 1-0
