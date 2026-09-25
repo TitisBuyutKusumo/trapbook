@@ -22,19 +22,17 @@ Your engine plays normal, respectable chess… until the opponent gets greedy. T
 - **King's Gambit mayhem** — Fischer Defense, Cunningham, Falkbeer, Allgaier, Muzio
 - **Offbeat & fun** — Budapest (Kieninger!), Englund, Danish, From's, Orangutan, Grob, Borg, Owen, Halloween, Monkey's Bum, Amar
 
-Underneath: 107k theory positions + 8,731 attacking master games (Tal, Fischer, Kasparov, Marshall, Blackburne, Anderssen, Morphy, Chigorin). Trap moves are weighted to dominate, sound theory fills the rest.
+Underneath: a full sound repertoire base. Trap moves are weighted to dominate, sound theory fills the rest.
 
 ## Who is this for
 
-**Engine vs human — not engine vs engine.** Real test results:
-
-| Matchup | Score |
-|---|---|
-| Stockfish + book vs Stockfish, no book (20 games) | 8.5/20 (−53 Elo, not significant) |
-| Stockfish + book vs Maia 1600 | 8–0 |
-| Stockfish + book vs blunder-prone play | 10–0 |
-
-Translation: dubious gambits get refuted by perfect calculation, but humans grab the bait every time. If you want a tournament book for engine-vs-engine, this isn't it. If you want to farm humans, welcome home.
+**Engine vs human — not engine vs engine.** In our own testing the book
+scored about even vs Stockfish without book (trap gambits get refuted by
+perfect calculation), while winning nearly every game vs human-like
+opponents. Dubious gambits get refuted by perfect calculation, but humans
+grab the bait every time — sample games in [`demos/`](demos/) show how.
+If you want a tournament book for engine-vs-engine, this isn't it.
+If you want to farm humans, welcome home.
 
 ## Use it in 1 minute
 
