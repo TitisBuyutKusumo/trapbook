@@ -30,7 +30,7 @@ Underneath: a full sound repertoire base. Trap moves are weighted to dominate, s
 scored about even vs Stockfish without book (trap gambits get refuted by
 perfect calculation), while winning nearly every game vs human-like
 opponents. Dubious gambits get refuted by perfect calculation, but humans
-grab the bait every time — sample games in [`demos/`](demos/) show how.
+grab the bait every time.
 If you want a tournament book for engine-vs-engine, this isn't it.
 If you want to farm humans, welcome home.
 
@@ -60,8 +60,6 @@ Stafford Gambit — Black "hangs" the queen, then mates:
 1. e4 e5 2. Nf3 Nf6 3. Nxe5 Nc6 4. Nxc6 dxc6 5. d3 Bc5
 6. Bg5 Nxe4 7. Bxd8 Bxf2+ 8. Ke2 Bg4#
 ```
-
-More full games in [`demos/`](https://github.com/TitisBuyutKusumo/trapbook/releases/tag/v1.1.0) — every trapper move tagged `[book]` or `[engine]` so you can see exactly where the book did it.
 
 ## FAQ
 
