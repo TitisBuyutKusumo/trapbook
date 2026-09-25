@@ -61,7 +61,7 @@ Stafford Gambit — Black "hangs" the queen, then mates:
 6. Bg5 Nxe4 7. Bxd8 Bxf2+ 8. Ke2 Bg4#
 ```
 
-More full games in [`demos/`](demos/) — every trapper move tagged `[book]` or `[engine]` so you can see exactly where the book did it.
+More full games in [`demos/`](https://github.com/TitisBuyutKusumo/trapbook/releases/tag/v1.1.0) — every trapper move tagged `[book]` or `[engine]` so you can see exactly where the book did it.
 
 ## FAQ
 
