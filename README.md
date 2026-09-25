@@ -4,13 +4,13 @@
 [![Release](https://img.shields.io/github/v/release/TitisBuyutKusumo/trapbook)](https://github.com/TitisBuyutKusumo/trapbook/releases)
 [![License](https://img.shields.io/github/license/TitisBuyutKusumo/trapbook)](LICENSE)
 
-Free polyglot chess opening book loaded with traps. **3.8 MB · 247,968 positions · 145 trap lines · both colors.**
+Free polyglot chess opening book loaded with traps. **3.8 MB · 248,028 positions · 189 trap lines · both colors.**
 
 Your engine plays normal, respectable chess… until the opponent gets greedy. Then the book bites.
 
 ## What's inside
 
-145 hand-built trap lines sitting on a full sound repertoire:
+189 hand-built trap lines sitting on a full sound repertoire:
 
 - **Mate in the opening** — Scholar's, Fool's, Legal's Mate, Opera trap
 - **The famous gambit traps** — Stafford, Fried Liver, Evans, Möller, Cochrane
